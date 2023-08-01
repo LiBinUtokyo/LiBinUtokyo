@@ -2,7 +2,7 @@
 This is Li Bin  
 ✨ I’m interested in Neuromorphic Computing like Spiking Neural Networks, Reservoir Computing  
 🌱 I’m currently persuing a Master's degree in department of Precision Engineering at the Unviersity of Tokyo  
-💬 How to reach me: email on my profile.
+💬 How to reach me: Email on my profile.
 
 <!--
 **LiBinUtokyo/LiBinUtokyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
