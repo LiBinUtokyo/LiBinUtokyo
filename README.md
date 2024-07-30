@@ -1,6 +1,6 @@
 ### Hi there 👋
 This is Li Bin  
-✨ I’m interested in Neuromorphic Computing like Spiking Neural Networks, Reservoir Computing  
+✨ I’m interested in Computational Neuroscience, Neuromorphic Computing like Spiking Neural Networks, Reservoir Computing  
 🌱 I’m currently persuing a Master's degree in department of Precision Engineering at the Unviersity of Tokyo  
 💬 How to reach me: Email on my profile.
 
